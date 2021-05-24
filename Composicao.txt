@@ -1,0 +1,12 @@
+SOLUTION 1
+    temp      80
+    pH        7
+    Na      1326.16
+    K        724
+    Mg       128.9
+    Ca       147.94 
+    Sr       8.44
+    Cl      1677.67
+    S(6)     0.89
+    -water    1   # kg
+END
